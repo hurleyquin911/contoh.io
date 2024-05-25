@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cde454ce.css",
+    "main.js": "/static/js/main.de98af20.js",
+    "static/media/background.jpg": "/static/media/background.eecce61848d69e41a60a.jpg",
+    "static/media/Logo2.png": "/static/media/Logo2.a6464371d709876c4738.png",
+    "static/media/logo_baju.png": "/static/media/logo_baju.837589fc920ce52984d9.png",
+    "static/media/logo_biasa.png": "/static/media/logo_biasa.fbf2e19dabb001946675.png",
+    "index.html": "/index.html",
+    "main.cde454ce.css.map": "/static/css/main.cde454ce.css.map",
+    "main.de98af20.js.map": "/static/js/main.de98af20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde454ce.css",
+    "static/js/main.de98af20.js"
+  ]
+}
